@@ -1,0 +1,3 @@
+VERSION=v0.0.6
+e46ec24b1f410c52fc52235e0c43d8a7370f5c24b0836cbd784f326b0042f3f2  /opt/output/bzImage-friend
+8435971ce74dda1e0d9d3f2590ea77b51a7c34e651ecd6fbab2d6da24147fdb9  /opt/output/initrd-friend
